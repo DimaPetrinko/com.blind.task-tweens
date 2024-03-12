@@ -1,0 +1,26 @@
+{
+  "name": "com.blind.task-tweens",
+  "version": "1.0.0",
+  "displayName": "Task Tweens",
+  "description": "The package that adds numerous extension methods for unity classes (such as Transform, Image, CanvasGroup etc.) that allow animating them using async task systax",
+  "unity": "2020.1",
+ "keywords": [
+    "tween",
+    "task",
+    "animation",
+    "fade",
+    "lerp"
+  ],
+  "samples": [
+    {
+      "displayName": "Use example",
+      "description": "General use example of various extension functions",
+      "path": "Samples~/UseExample"
+    }
+  ],
+  "author": {
+    "name": "Blind",
+    "email": "dmytrii.petrinko@gmail.com",
+    "url": "https://github.com/DimaPetrinko"
+  }
+}

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TaskTweens.CoroutineLoop
+namespace TaskTweens.Loops.CoroutineLoop
 {
 	internal class CoroutineProxy : MonoBehaviour
 	{

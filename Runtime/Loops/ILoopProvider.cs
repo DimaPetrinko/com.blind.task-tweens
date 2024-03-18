@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace TaskTweens
+namespace TaskTweens.Loops
 {
 	public interface ILoopProvider
 	{

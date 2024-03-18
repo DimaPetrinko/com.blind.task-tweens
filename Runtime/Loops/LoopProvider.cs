@@ -1,7 +1,7 @@
 ﻿using System.Linq;
-using TaskTweens.CoroutineLoop;
+using TaskTweens.Loops.CoroutineLoop;
 
-namespace TaskTweens
+namespace TaskTweens.Loops
 {
 	public static class LoopProvider
 	{

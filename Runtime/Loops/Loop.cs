@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace TaskTweens
+namespace TaskTweens.Loops
 {
 	public struct Loop
 	{

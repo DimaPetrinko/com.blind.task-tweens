@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using TaskTweens;
+using TaskTweens.Loops;
 using Tests.Testers;
 using UnityEngine;
 

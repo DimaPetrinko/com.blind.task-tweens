@@ -5,7 +5,7 @@ using System.Threading;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace TaskTweens.CoroutineLoop
+namespace TaskTweens.Loops.CoroutineLoop
 {
 	internal class CoroutineLoopProvider : ILoopProvider
 	{
